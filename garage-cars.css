@@ -1,0 +1,346 @@
+.body{
+    position: relative;
+width: 4596px;
+height: 440px;
+
+background: rgba(59, 198, 89, 0.43);
+}
+.logo{
+    position: absolute;
+width: 1178px;
+height: 277px;
+left: 136px;
+    top: -145px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 128px;
+line-height: 155px;
+
+color: #010101;
+white-space: pre-line;
+}
+.line{
+    position: absolute;
+width: 343.18px;
+height: 0px;
+left: 946px;
+top: 160px;
+
+border: 10px solid #000000;
+transform: rotate(91.84deg);
+}
+.p{
+    position: absolute;
+width: 860px;
+height: 124px;
+left: 1169px;
+top: 186px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+}
+.phone{
+    position: absolute;
+width: 1548px;
+height: 176px;
+left: 3580px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+
+}
+.header{
+    position: relative;
+width: 4596px;
+height: 150px;
+
+background: rgba(253, 243, 11, 0.98);
+top: 300px;
+}
+.main-title{
+    list-style-type: none;
+}
+.home{
+    position: absolute;
+width: 449px;
+height: 115px;
+left: 212px;
+top: 23px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+color:#000000
+}
+:hover.home{
+    color:red;
+}
+.about{
+    position: absolute;
+width: 327px;
+height: 54px;
+left: 867px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
+}
+.rental{
+    position: absolute;
+width: 697px;
+height: 107px;
+left: 1400px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
+}
+:hover.cars{
+    color:red;
+}
+.cars{
+    position: absolute;
+width: 803px;
+height: 99px;
+left: 2159px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
+}
+.lessons{
+    position: absolute;
+width: 855px;
+height: 112px;
+left: 3059px;
+top: 23px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
+}
+.contact{
+    position: absolute;
+width: 415px;
+height: 84px;
+left: 4074px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
+
+}
+.mclaren{
+    position: absolute;
+    width: 1272px;
+    height: 152px;
+    left: 40px;
+    top: 364px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    text-align: center;
+    color: #000000;
+}
+.charecters{
+    position: absolute;
+width: 1456px;
+height: 1258px;
+left: 164px;
+top: 555px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 80px;
+line-height: 97px;
+text-align: justify;
+
+color: #000000;
+white-space: pre-line;
+
+}
+.lamborhini{
+    position: absolute;
+    width: 1352px;
+    height: 672px;
+    left: 0px;
+    top: 1933px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    text-align: center;
+    
+    color: #000000; 
+}
+.title-title{
+    position: absolute;
+    width: 1456px;
+    height: 1258px;
+    left: 164px;
+    top: 2191px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 97px;
+    text-align: justify;
+    
+    color: #000000; 
+    white-space: pre-line;
+}
+.maserati{
+    position: absolute;
+    width: 676px;
+    height: 360px;
+    left: 338px;
+    top: 3569px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    text-align: center;
+    
+    color: #000000; 
+}
+.title-jgd{
+    position: absolute;
+width: 1456px;
+height: 1258px;
+left: 164px;
+top: 3827px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 80px;
+line-height: 97px;
+text-align: justify;
+
+color: #000000;
+white-space: pre-line;
+
+}
+.titotap{
+    position: absolute;
+width: 1456px;
+height: 1258px;
+left: 164px;
+top: 5494px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 80px;
+line-height: 97px;
+text-align: justify;
+
+color: #000000;
+white-space: pre-line;
+
+}
+.ferrari{
+    position: absolute;
+width: 712px;
+height: 296px;
+left: 486px;
+top: 5245px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 128px;
+line-height: 155px;
+text-align: justify;
+
+color: #000000;
+}
+.footertitle{
+    position: absolute;
+    width: 464px;
+    height: 96px;
+    left: 1291px;
+    top: 7104px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+.line-2{
+    position: absolute;
+    width: 155.99px;
+    height: 1.81px;
+    left: 1536.48px;
+    top: 7121px;
+    border: 7px solid #000000;
+    transform: rotate(89.33deg);
+}
+.policy{
+    position: absolute;
+    width: 842px;
+    height: 48px;
+    left: 1665px;
+    top: 7104px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
